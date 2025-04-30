@@ -6,7 +6,7 @@ export default function Home() {
     description:
       "Stay on top of your daily water intake with this innovative bottle featuring built-in hydration reminders and Bluetooth connectivity.",
     price: 137,
-    image: "/images/HPAS2.jpg", // Cambié la ruta aquí para que sea coherente con la estructura 'public/imges'
+    image: "/images/HPAS2.jpg", 
     sizeOptions: [
       { value: "700ml", label: "700ml" },
       { value: "500ml", label: "500ml" },
